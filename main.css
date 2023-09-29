@@ -1,15 +1,15 @@
 /* Creates global color variables (accessed via: var(--text-color) etc.) */
 
 :root{
-    --text-color: #ffffff;
+    --text-color: #16d7e1;
 }
 
 body, html {
     /* TODO: Define these colors as you like */
-    background: linear-gradient(to left, #243B55, #141E30); /* Chose 2 different colors to fade into */
+    background: linear-gradient(to left, #867f8d, #211430); /* Chose 2 different colors to fade into */
 
     /* TODO: Use either beginning color or ending color (this is for overscrolling) */
-    background-color: #141E30;
+    background-color: #8573b7;
 
     /* TODO: Change the font style you use */
     font-family: 'Montserrat', sans-serif;
